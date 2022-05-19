@@ -1,4 +1,5 @@
 #Natural Language processing (NLP) tests in English
+# Operations on NLP Corpus from Univ of Pennsylvania
 
 # Required and setup
 # Python 3.10 or greater
@@ -7,7 +8,7 @@
 # python3 -m nltk.downloader all
 # In Pycharm install package nltk in UI
 
-# Operations on NLP Corpus from Univ of Pennsylvania
+
 
 import nltk
 from nltk.tokenize import sent_tokenize
